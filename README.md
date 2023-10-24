@@ -4,6 +4,7 @@
 </em></p>
 
 [![Napidő](stonawski.hu/share/napidologo.png)](https://suntime.stonawski.hu)
+</br>
 
 ### Az akalmazás futtatása sajátkezüleg
 
