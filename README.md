@@ -1,6 +1,6 @@
 # Napidő (Suntime)
 <img align='right' src="https://suntime.stonawski.hu/static/icon-512.png" width="230">
-<p><em>A valós napidő kiszámítása <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGgwbWgzdnAxbGZ3azk0ZHJiZ3ZlNXdjbDl1bjR3cmQyY2dpc3hidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0HOpzaUXInKxPLtr9/giphy.gif" width="30">
+<p><em>A valódi napidő kiszámítása <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGgwbWgzdnAxbGZ3azk0ZHJiZ3ZlNXdjbDl1bjR3cmQyY2dpc3hidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0HOpzaUXInKxPLtr9/giphy.gif" width="30">
 </em></p>
 
 [<img src="https://suntime.stonawski.hu/static/napidologo.png">](https://suntime.stonawski.hu/)
