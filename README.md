@@ -3,7 +3,7 @@
 <p><em>A valós napidő kiszámítása <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGgwbWgzdnAxbGZ3azk0ZHJiZ3ZlNXdjbDl1bjR3cmQyY2dpc3hidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0HOpzaUXInKxPLtr9/giphy.gif" width="30">
 </em></p>
 
-[![Napidő](https://suntime.stonawski.hu/static/napidologo.png)](https://suntime.stonawski.hu/)
+[<img src="https://suntime.stonawski.hu/static/napidologo.png">](https://suntime.stonawski.hu/)
 </br>
 
 ### Az akalmazás futtatása sajátkezüleg
