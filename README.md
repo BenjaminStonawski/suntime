@@ -4,6 +4,7 @@
 </em></p>
 
 [<img src="https://suntime.stonawski.hu/static/napidologo.png">](https://suntime.stonawski.hu/)
+</br>
 ![Verzió](https://stonawski.hu/share/suntimeverzio.svg)
 </br>
 
