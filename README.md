@@ -4,7 +4,7 @@
 </em></p>
 
 [<img src="https://suntime.stonawski.hu/static/napidologo.png">](https://suntime.stonawski.hu/)
-![Verzió](https://img.shields.io/badge/Conventional%20Commits-0.4.3-blue.svg)
+![Verzió](https://stonawski.hu/share/suntimeverzio.svg)
 </br>
 
 ### Az akalmazás futtatása sajátkezüleg
